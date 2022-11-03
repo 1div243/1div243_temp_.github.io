@@ -3,4 +3,4 @@
 - 1/243
 - div_romaniv
 - romaniv_vl
-- linkedin.com/in/volodymyr-romaniv/
+- QA Engineer - [LinkedIn](linkedin.com/in/volodymyr-romaniv/)
